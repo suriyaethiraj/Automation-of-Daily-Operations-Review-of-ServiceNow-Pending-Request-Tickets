@@ -1,0 +1,2 @@
+# Automation-of-Daily-Operations-Review-of-ServiceNow-Pending-Request-Tickets
+Sure! Here's a concise version:  A Service Request is a formal user request for IT services, like password resets or software installations. The "Daily Operational Review - Pending Request Analysis Model" tracks ServiceNow tickets in Pending status, helping the IT Infrastructure Service Management Team monitor unresolved requests.
